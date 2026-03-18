@@ -1,0 +1,24 @@
+# config.yaml
+# -----------------------------------------------------------------
+# Tweak these paths/toggles without touching the Python code.
+# -----------------------------------------------------------------
+system:
+  # Leave blank to use system PATH.
+  poppler_bin: ""
+  tesseract_exe: ""
+
+device:
+  use_gpu: false
+
+layout:
+  model_config: "configs/config_Table.yaml"
+  score_thresh: 0.5
+
+ocr:
+  lang: "eng"
+  psm: 1                                              # Automatic page segmentation
+  preserve_spaces: 1                                  # keep double spaces[13]
+
+docx:
+  page_width_mm: 210
+  page_height_mm: 297

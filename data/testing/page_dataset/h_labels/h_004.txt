@@ -1,0 +1,20 @@
+Automation: via HTTP protocol & middleware services
+
+Docker: Persistent volume plugin for Docker containers & support Kubernetes & swarm
+
+Backup & Integrate: Major backup & recovery products (IBM, EMC, HP, Dell)
+
+AWS (Amazon Web Services)
+
+Top performing on demand cloud computing platforms & API’s to individuals & company at a metered pay as you go basis
+
+Abstract technical infrastructure & distributed computing building blocks & tools
+
+AWS → 200 products & services
+
+– Amazon Elastic Compute Cloud (EC2)
+
+Rent virtual comp to run their own applications
+
+Encourages scalable images
+boot → Amazon machine images (AMI’s) → config VM → instances.

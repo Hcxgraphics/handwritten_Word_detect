@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+PersonalTesting/.venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Generated outputs
+*.docx
+*.pdf
+*.tmp
+data/interim/preprocessed_frames/*.txt
+data/interim/preprocessed_frames/*_after.png
+data/interim/segments/
+
+
+data/raw/
+*.zip

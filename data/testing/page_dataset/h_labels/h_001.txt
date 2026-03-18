@@ -1,0 +1,51 @@
+DataNodes
+
+
+
+Store data in Hadoop cluster
+
+
+
+file data is replicated on multiple DataNodes for reliability so that localized computation can be executed near the data
+as well as for fault tolerance
+
+
+
+Within a cluster, Datanodes should be uniform. around 128 MB size.
+
+
+
+Replication
+To ensure fault tolerance & high availability, Replication is done
+
+
+
+Storing multiple copies of data across different nodes in a cluster
+
+
+
+3 → replication factor (default)
+
+If a dataNode fails Namenode detects missing block & initiates replication from available copies. to maintain replication factor
+
+
+
+
+
+Benefits of HDFS
+
+
+
+Fault tolerance
+
+
+
+Load Balancing: Read/write operations across multiple nodes
+
+
+
+High throughput
+
+
+
+Optimize data access by keeping data locally near to

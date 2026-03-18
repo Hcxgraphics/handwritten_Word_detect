@@ -1,0 +1,13 @@
+pytesseract
+opencv-python
+numpy
+scikit-image
+deskew
+pdf2image
+python-docx
+PyYAML
+yamlloader
+tqdm
+Pillow
+beautifulsoup4
+layoutparser

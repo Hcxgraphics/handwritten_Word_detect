@@ -1,0 +1,39 @@
+Public Cloud
+
+Adv.:
+
+Minimal investment
+
+No setup cost
+
+No infra management for user.
+
+User don’t have to main.ta.
+
+Disadv.: OS remains fully controlled under cloud provider
+→ Customers are forced to follow the cloud operators terms & condition
+
+Private Cloud
+
+✓ one to one interaction
+– no need to share hardware
+– protected firewall
+– Security & privacy
+– Customization
+
+Behind a firewall & utilized by single operator / organization
+
+Good for business → very tight regulatory requirements
+
+Colocation providers are giving hybrid → carrier hotel → a type of datacentre where equipment space & bandwidth are available
+
+Authorised users → can access utilize & store data from anywhere
+
+Offer both security & control → costly
+
+As it is not controlled by outside vendor :-
+– No risk of sudden changes
+– Easier to restrict access of valuable info
+– Easier transfer of data
+
+lacks of versitality of pub clouds → adding more clift scaling + physical compute & storage options can help it to expand

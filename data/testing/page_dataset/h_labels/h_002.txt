@@ -1,0 +1,13 @@
+Map Reduce
+
+Process huge data in distributed file systems using //processing
+Data → key-value → shuffle → Reduce to final output (map)
+
+Don’t allow data movements, instead send map programs through the data
+
+To handle failures → map reduce re-perform the map operations or reduce operation.
+These are idempotent i.e if we repeat map & reduce func. multiple times the output doesn’t change
+
+Used for metadata where files are distributed across many machines & need to analyze all data collectively.
+
+Map reduce map each of the jobs & then reduce it to equivalent tasks to providing less overhead over the cluster network & reduce processing power.
